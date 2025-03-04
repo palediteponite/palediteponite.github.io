@@ -3,3 +3,17 @@ body {
     background-size: cover; /* Ajuste l'image pour couvrir tout l'écran */
     background-repeat: no-repeat; /* Empêche la répétition */
 }
+
+.rectangle {
+    background-color: gray; /* Couleur de fond gris */
+    padding: 30px; /* Espacement à l'intérieur du rectangle */
+    width: 300px; /* Largeur du rectangle */
+    border-radius: 15px; /* Coins arrondis */
+    text-align: center; /* Centrer le texte à l'intérieur */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Ombre discrète autour du rectangle */
+}
+
+h2, p {
+    margin: 10px 0; /* Marge entre les éléments */
+    color: white; /* Texte en blanc pour être visible sur le fond gris */
+}
