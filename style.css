@@ -3,11 +3,12 @@ body {
     background-size: cover; /* Ajuste l'image pour couvrir tout l'écran */
     background-repeat: no-repeat; /* Empêche la répétition */
 
-    display: flex;
+    height: 100vh; /* Prend toute la hauteur de la fenêtre */
+    margin: 0; /* Enlève les marges par défaut */
+    display: flex; /* Utilise Flexbox */
     justify-content: center; /* Centre le contenu horizontalement */
     align-items: center; /* Centre le contenu verticalement */
-    font-family: Arial, sans-serif;
-    color: white; /* Le texte devient blanc */
+    font-family: Arial, sans-serif; /* Police de caractère */
 
 }
 
