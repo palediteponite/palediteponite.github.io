@@ -16,7 +16,7 @@ body {
 
 .rectangle {
     background-color: rgb(50,50,50); /* Couleur de fond gris */
-    padding: 30px; /* Espacement à l'intérieur du rectangle */
+    padding: 165px; /* Espacement à l'intérieur du rectangle */
     width: 300px; /* Largeur du rectangle */
     border-radius: 3px; /* Coins arrondis */
     text-align: center; /* Centrer le texte à l'intérieur */
