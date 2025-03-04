@@ -1,0 +1,6 @@
+body {
+    background-image: url('https://discord.com/assets/d8680b1c1576ecc8.svg'); /* Chemin de l'image */
+    background-size: cover; /* Ajuste l'image pour couvrir toute la page */
+    background-position: center; /* Centre l'image */
+    background-repeat: no-repeat; /* Empêche la répétition */
+}
