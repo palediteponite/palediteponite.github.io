@@ -12,7 +12,7 @@ body {
 }
 
 .rectangle {
-    background-color: gray; /* Couleur de fond gris */
+    background-color: rgb(50,50,50); /* Couleur de fond gris */
     padding: 30px; /* Espacement à l'intérieur du rectangle */
     width: 300px; /* Largeur du rectangle */
     border-radius: 15px; /* Coins arrondis */
