@@ -6,7 +6,7 @@ body {
     height: 100vh; /* Prend toute la hauteur de la fenêtre */
     margin: 0; /* Enlève les marges par défaut */
     display: flex; /* Utilise Flexbox */
-    justify-content: center; /* Centre le contenu horizontalement */
+    justify-content: center center; /* Centre le contenu horizontalement */
     align-items: center; /* Centre le contenu verticalement */
     font-family: Arial, sans-serif; /* Police de caractère */
 
