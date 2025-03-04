@@ -1,6 +1,6 @@
 body {
     background-image: url('background.png'); /* Remplace par le vrai nom de ton fichier */
     background-size: cover; /* Ajuste l'image pour couvrir tout l'écran */
-    background-position: center; /* Centre l'image */
+    background-position: center center; /* Centre l'image */
     background-repeat: no-repeat; /* Empêche la répétition */
 }
