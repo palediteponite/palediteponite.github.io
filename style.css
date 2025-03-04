@@ -1,10 +1,12 @@
+html, body {
+    height: 100%; /* Prendre 100% de la hauteur de la fenêtre */
+    margin: 0; /* Enlever les marges par défaut */
+}
 body {
     background-image: url('background.png'); /* Remplace par le vrai nom de ton fichier */
     background-size: cover; /* Ajuste l'image pour couvrir tout l'écran */
     background-repeat: no-repeat; /* Empêche la répétition */
 
-    height: 100vh; /* Prend toute la hauteur de la fenêtre */
-    margin: 0; /* Enlève les marges par défaut */
     display: flex; /* Utilise Flexbox */
     justify-content: center; /* Centre le contenu horizontalement */
     align-items: center; /* Centre le contenu verticalement */
