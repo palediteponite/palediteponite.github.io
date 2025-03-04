@@ -2,6 +2,13 @@ body {
     background-image: url('background.png'); /* Remplace par le vrai nom de ton fichier */
     background-size: cover; /* Ajuste l'image pour couvrir tout l'écran */
     background-repeat: no-repeat; /* Empêche la répétition */
+
+    display: flex;
+    justify-content: center; /* Centre le contenu horizontalement */
+    align-items: center; /* Centre le contenu verticalement */
+    font-family: Arial, sans-serif;
+    color: white; /* Le texte devient blanc */
+
 }
 
 .rectangle {
