@@ -45,3 +45,10 @@ input[type="text"] {
     color: rgb(200, 200, 200);
     font-size: 16px !important; /* Augmenter la taille du texte saisi */
 }
+label {
+    font-size: 12px;  /* Taille du texte du label */
+    font-weight: bold; /* Rend le texte en gras (optionnel) */
+    color: white;  /* Change la couleur du texte */
+    display: block; /* Assure que le label est sur une ligne distincte */
+    margin-bottom: 5px; /* Ajoute un espace en dessous du label */
+}
