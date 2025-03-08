@@ -21,6 +21,9 @@ body {
     border-radius: 3px; /* Coins arrondis */
     text-align: center; /* Centrer le texte à l'intérieur */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Ombre discrète autour du rectangle */
+    color: white; /* Texte en blanc */
+    font-family: Arial, sans-serif; /* Police de caractère */
+
 }
 
 h2, p {
