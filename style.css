@@ -1,3 +1,19 @@
+/* Définir la première police */
+@font-face {
+    font-family: 'Font1';  /* Nom de la première police */
+    src: url('font1.woff2') format('woff2'); /* Le chemin vers le fichier .woff2 */
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Définir la deuxième police */
+@font-face {
+    font-family: 'font2';  /* Nom de la deuxième police */
+    src: url('font2.woff2') format('woff2'); /* Le chemin vers le fichier .woff2 */
+    font-weight: normal;
+    font-style: normal;
+}
+
 html, body {
     height: 100%; /* Prendre 100% de la hauteur de la fenêtre */
     margin: 0; /* Enlever les marges par défaut */
